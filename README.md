@@ -1,4 +1,4 @@
-#  Hi, I’m Chioma Princess Ohwo (thevirtualtechmaven)
+#  Hi, I’m Chioma Princess Ohwo **(TheVirtualTechMaven)**
 
 ---
 
@@ -45,7 +45,13 @@ I’m a ** an AWS Certified Cloud Architect & Backend Engineer focused on API de
 
 This GitHub is my **engineering lab** — I design, build, break, optimize, and scale systems. I approach engineering with **clarity, intent, and a product mindset**, ensuring every project is **scalable, maintainable, and performance-focused**.  
 
-I’m building toward **Cloud DevOps and AI/ML Engineering**, integrating backend development, cloud architecture, and prompt engineering to build **future-ready systems**.
+I’m a **tech explorer, problem solver, and systems builder intentionally crafting my niche at the intersection of Cloud, Backend Development, DevOps, and AI/ML**. I thrive on building real-world systems that scale, perform, and integrate emerging technologies, blending hands-on engineering with strategic product thinking.
+
+I approach tech with intentionality and curiosity, constantly experimenting with architectures, languages, and frameworks to push the boundaries of what backend systems can do. Every project I touch is an opportunity to learn, optimize, and innovate, whether it’s designing a secure database schema, deploying a cloud-native application, or integrating AI-driven workflows.
+
+Right now, I’m carving my niche in tech, combining my experience across **backend development, cloud architecture, and AI/ML experimentation** to build future-ready systems that solve real problems. My long-term vision is to become a Cloud DevOps and AI/ML Engineer, designing scalable, automated, and intelligent systems that can adapt and grow with tomorrow’s technological challenges.
+
+I’m intentional about building not just code, but impact, creating systems that are efficient, secure, maintainable, and meaningful. **Tech for me isn’t just a career, it’s a laboratory, a playground, and a canvas for innovation**.
 
 ---
 
