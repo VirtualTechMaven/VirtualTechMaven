@@ -111,13 +111,6 @@ I’m intentional about building not just code, but impact, creating systems tha
 
 ---
 
-##  GitHub Stats
-
-![Chioma's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevirtualtechmaven&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thevirtualtechmaven&layout=compact&theme=radical)
-
----
-
 ##  Connect With Me
 
 - LinkedIn: [https://www.linkedin.com/in/chiomaohwo](https://www.linkedin.com/in/chiomaohwo)  
@@ -125,4 +118,4 @@ I’m intentional about building not just code, but impact, creating systems tha
 
 ---
 
- **Built by thevirtualtechmaven — Cloud • Backend • DevOps • AI (in progress)**
+ **Built by TheVirtualTechMaven  (CHIOMA PRINCESS OHWO) — Cloud • Backend • DevOps • SEO • Product Management • AI (in progress)**
