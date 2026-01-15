@@ -41,7 +41,7 @@
 
 ##  About Me
 
-I’m a ** an AWS Certified Cloud Architect & Backend Engineer focused on API development and server-side encryption, Product Manager, Hubspot Certified SEO Specialist, AI Prompt Engineer, Web 3 Enthusiast and Technical Builder**, intentionally carving out a niche at the intersection of **Cloud Infrastructure, Backend Systems, DevOps, and AI/ML**.  
+I’m a **an AWS Certified Cloud Architect & Backend Engineer focused on API development and server-side encryption, Product Manager, Hubspot Certified SEO Specialist, AI Prompt Engineer, Web 3 Enthusiast and Technical Builder**, intentionally carving out a niche at the intersection of **Cloud Infrastructure, Backend Systems, DevOps, and AI/ML**.  
 
 This GitHub is my **engineering lab**. I design, build, break, optimize, and scale systems. I approach engineering with **clarity, intent, and a product mindset**, ensuring every project is **scalable, maintainable, and performance-focused**.  
 
